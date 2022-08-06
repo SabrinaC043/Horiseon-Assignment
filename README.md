@@ -1,4 +1,4 @@
-#Horiseon Tips on Digital Media Marketing
+# Horiseon Tips on Digital Media Marketing
 
 __Motivation__:
 This webpage was intended to assist people in the process of understanding how digital media and their own personal identity are synced. 
