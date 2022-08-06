@@ -5,8 +5,8 @@ This webpage was intended to assist people in the process of understanding how d
 It also provides tips and information which one should keep in mind while on the internet, social media, and marketing. 
 
 __Build Status__:
-[] Issue arose when creating a responsive mobile friendly site; the sidebar would not adhere to the top right space; created for it. 
-[] I aim to understand the root cause of the issue. 
+- [ ] Issue arose when creating a responsive mobile friendly site; the sidebar would not adhere to the top right space; created for it. 
+- [ ] I aim to understand the root cause of the issue. 
 
 __Display__: mobile adaptive but not built for Desktop view. 
 
